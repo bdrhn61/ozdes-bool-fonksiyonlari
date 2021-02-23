@@ -1,0 +1,1 @@
+# ozdes-bool-fonksiyonlari
